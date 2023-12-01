@@ -27,7 +27,6 @@ type Actionstype = ChangeThemeIdType
 
 
 
-
 const rootReducer = combineReducers({
     // ...other reducers
     theme: themeReducer,
